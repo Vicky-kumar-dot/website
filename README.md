@@ -1,5 +1,5 @@
 # website
-This is my first Repository\n
-Developer- vicky\n
-web developer
+This is my first Repository<br>
+Developer- Vicky Raghuvanshi<br>
+ passion - Web Developer
 
